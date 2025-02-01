@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Lintang!  
+🚀 Full Stack Developer | 💡 UI/UX Enthusiast  
 
-<!--
-**lintangms/lintangms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **React.js & Node.js** and love building modern web applications. Passionate about **UI/UX design**, performance optimization, and scalable architecture.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Mysql 
+- **Design:** Figma
+  
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lintang-muhammad-shiddiq-8a7bab286/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lintang._.ms/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lintangmuhammadshiddiq@gmail.com)  
