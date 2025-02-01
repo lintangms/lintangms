@@ -11,6 +11,13 @@ I specialize in **React.js & Node.js** and love building modern web applications
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintangms&show_icons=true&theme=tokyonight)  
 
+
+🔠 **Most Used Languages:**  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lintangms&layout=compact&theme=tokyonight)
+
+🏆 **GitHub Trophies:**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lintangms&theme=tokyonight)
+
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lintang-muhammad-shiddiq-8a7bab286/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lintang._.ms/)  
