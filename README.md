@@ -14,22 +14,6 @@ I specialize in **React.js & Node.js** and love building modern web applications
 
 ---
 
-### 🔥 What I'm Working On  
-- 🔨 Building modern, responsive UIs with React & Tailwind  
-- 🚀 Improving performance of backend services in Node.js  
-- 🎨 Designing seamless user experiences in Figma  
-- 📦 Exploring microservices and scalable backend architecture  
-
----
-
-### 🎯 Fun Facts  
-- 🧠 I love solving UI bugs that others avoid  
-- 💬 I always advocate for accessibility and clean design  
-- 🤹‍♂️ I'm a perfectionist with pixels  
-- 🌏 I believe good UX solves real-world problems  
-
----
-
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=lintangms&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -41,8 +25,8 @@ I specialize in **React.js & Node.js** and love building modern web applications
 
 ---
 
-### 🌱 My GitHub Contributions  
-![GitHub Streak](https://streak-stats.demolab.com?user=lintangms&theme=tokyonight&hide_border=true)
+### 🔥 Contributions Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lintangms&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -52,5 +36,3 @@ I specialize in **React.js & Node.js** and love building modern web applications
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lintang@example.com)  
 
 ---
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
