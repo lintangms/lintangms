@@ -13,11 +13,6 @@ I specialize in **React.js & Node.js** and love building modern web applications
 
 ---
 
-### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=lintangms&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintangms&show_icons=true&theme=tokyonight)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lintangms&layout=compact&theme=tokyonight)
@@ -39,4 +34,3 @@ I specialize in **React.js & Node.js** and love building modern web applications
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lintang._.ms/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lintang@example.com)  
 
----
