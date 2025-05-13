@@ -26,7 +26,7 @@ I specialize in **React.js & Node.js** and love building modern web applications
 ---
 
 ### 🔥 Contributions Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lintangms&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lintangms&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
