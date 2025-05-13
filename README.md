@@ -3,7 +3,6 @@
 
 I specialize in **React.js & Node.js** and love building modern web applications. Passionate about **UI/UX design**, performance optimization, and scalable architecture.  
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=lintangms&style=flat-square&color=blue)
 
 ---
 
@@ -22,6 +21,11 @@ I specialize in **React.js & Node.js** and love building modern web applications
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintangms&show_icons=true&theme=tokyonight)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lintangms&layout=compact&theme=tokyonight)
+
+---
+
+### 📊 GitHub Activity Graph
+[![Lintang's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lintangms&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
