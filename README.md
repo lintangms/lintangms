@@ -24,11 +24,6 @@ I specialize in **React.js & Node.js** and love building modern web applications
 
 ---
 
-### 🔥 Contributions Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=lintangms&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lintang-muhammad-shiddiq-8a7bab286/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lintang._.ms/)  
